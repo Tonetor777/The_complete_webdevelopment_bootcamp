@@ -24,9 +24,10 @@ li {
     border-top: 1px solid;
     padding: 4px;
 }
-li:hover {
+li:hover , li:focus {
     color: white; 
     background-color: grey;
+    cursor: pointer;
 }
 li:last-child {
     border-radius: 0 0 2rem 2rem;
