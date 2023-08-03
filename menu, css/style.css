@@ -7,7 +7,7 @@ div{
     margin: 20px auto; 
     width: 400px;
     padding:0;
-    border: 2px solid;
+    border: 1px solid;
     line-height: 1.6;
     text-align: center;
     border-radius: 2rem;
@@ -25,6 +25,7 @@ li {
     padding: 4px;
 }
 li:hover , li:focus {
+    font-size: 24px;
     color: white; 
     background-color: grey;
     cursor: pointer;
