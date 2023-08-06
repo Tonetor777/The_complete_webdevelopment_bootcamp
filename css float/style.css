@@ -1,0 +1,21 @@
+.block {
+    width: 30vw;
+    height: 30vw;
+    background-color: grey;
+    padding: 1rem;
+}
+p{
+    text-align: justify;
+}
+.left {
+    float: left;
+    margin-right: 10px;
+}
+.right {
+    float: right;
+    margin-left: 10px;
+}
+section {
+    background-color: bisque;
+    display: flow-root;
+}
