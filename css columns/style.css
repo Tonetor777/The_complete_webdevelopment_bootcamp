@@ -1,0 +1,4 @@
+.column {
+   columns: 4 250px;
+   column-rule: 3px solid black;
+}
